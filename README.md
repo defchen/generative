@@ -1,2 +1,5 @@
 # generative
-Random procedurally-generated art
+A collection of procedurally-generated art focusing on randomness above all else.
+
+"No why. Just here" 
+-John Cage
